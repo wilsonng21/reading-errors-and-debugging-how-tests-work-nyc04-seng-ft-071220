@@ -1,4 +1,4 @@
 # Add your variables here
 
-first_number = 30
-second_number = 2
+First_number = 30
+
