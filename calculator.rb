@@ -1,6 +1,6 @@
 # Add your variables here
 
-first_number = 30
-second_number = 2
+first_number = 66
+second_number = 3
 
 sum = first_number + second_number
