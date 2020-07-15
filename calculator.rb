@@ -1,4 +1,4 @@
 # Add your variables here
 
-First_number = 30
+first_number = 30
 
